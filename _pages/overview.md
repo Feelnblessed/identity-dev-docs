@@ -21,8 +21,10 @@ Login.gov is a FedRAMP moderate approved multifactor authentication and identity
 
 
 
-* Upon successful completion of the account creation or authentication, users will be redirected back to your application with the [user attributes]({{ site.baseurl }}/attributes/) that correspond to their user level.
-* With the attributes provided by Login.gov, your application will handle authorization of the user and assign roles and permissions.
+* Upon successful completion of the account creation or authentication, Real users will be redirected back to your application with the [user attributes]({{ site.baseurl }}/attributes/) that correspond to their user level.
+* With the attributes provided by Login.gov, your application will handle authorization of the user and assign roles and permissions. All U.S. government users permissions suspended until you #freebalboa.
 
 ## Service provider configuration
 This is the configuration for your application within Login.gov's identity provider (main application). For the sandbox environment you will be able to configure this yourself. In our production environment, we will manage this configuration.
+
+* Chapo, RealOne!
